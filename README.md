@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @margin-top0
-- 👀 I’m interested in wordpress and opensource.
+- 👀 I’m interested in wordpress and open source.
 - 🌱 I’m currently learning more on wordpress.
 - 💞️ I’m looking to collaborate on anything that has to do with wordpress.
-- 📫 Email id@banet.gr
+- 📫 Email id@timeless.gr
 
 <!---
 margin-top0/margin-top0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
