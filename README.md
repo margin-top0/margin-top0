@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @margin-top0
 - 👀 I’m interested in wordpress and open source.
 - 🌱 I’m currently learning more on wordpress.
-- 💞️ I’m looking to collaborate on anything that has to do with wordpress.
 - 📫 Email id@timeless.gr
 
 <!---
